@@ -37,13 +37,31 @@ print("Saldo terceiro ano: ", saldo_03)
 # Write a program that displays your name inside a box on the 
 # screen, like this: Manoel Do your best to approximate lines 
 # with characters such as | - +.
+# I used this ascii caracteres for the best presentation:
 # 124 | 196 ─ 191 ┐ 192 └ 217 ┘ 218 ┌
 print("**************** Exercício 5 ****************")
 print("┌────────┐")
 print("| Manoel |")
 print("└────────┘")
 
-# Write a program that prints your name in large letters
-
+# 6 Write a program that prints your name in large letters
 print("**************** Exercício 6 ****************")
+
+print("*       * * * * * * *       * * * * * * * * * * * *         ")
+print("* *   * * *       * * *     * *       * *         *         ")
+print("*   *   * * * * * * *   *   * *       * * * *     *         ")
+print("*       * *       * *     * * *       * *         *         ")
+print("*       * *       * *       * * * * * * * * * * * * * * * * ")
+
+# 7 Write a program that prints a face similar to the following:
+print("**************** Exercício 7 ****************")
+print("!!!!!!!")
+print("+'''''+")
+print("([o o])")
+print("|  ^  |")
+print("| '-' |")
+print("+-----+")
+
+
+
 
